@@ -1,1 +1,1 @@
-# Infographic tesing environment
+# Infographic testing environment

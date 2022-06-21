@@ -1,1 +1,1 @@
-# NE_ESR
+# Infographic tesing environment
